@@ -1,5 +1,5 @@
 # state-breach-notifications
-Full xlsx table with details of each states' breach notification information
+Full Excel spreadsheet table with details of each states' breach notification information
 
 Search the relevant state and you'll get the relevant Statute, Bill Number, Days, Credit-Monitoring, Attorney General Office Info, Breach Law Highlights, and Time-Table Updates & Amendments
 
